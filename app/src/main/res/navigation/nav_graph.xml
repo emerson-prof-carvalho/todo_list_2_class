@@ -16,6 +16,7 @@
             android:id="@+id/action_MainFragment_to_TaskFragment"
             app:destination="@id/TaskFragment" />
     </fragment>
+
     <fragment
         android:id="@+id/TaskFragment"
         android:name="br.edu.ifsuldeminas.mch.tarefas2.TaskFragment"
